@@ -5,7 +5,9 @@ End-to-End Functional and UX Testing, to validate the core business workflows of
 
 **Browser**: Chrome 145
 
-**Windows:** x86
+**Windows**: 10
+
+**Version**: Version x84
 
 **Test Duration**: 4 Days (Feb 16 - Feb 20)
 
@@ -13,18 +15,18 @@ End-to-End Functional and UX Testing, to validate the core business workflows of
 
 
 
+
 **Scope**
 
-     In Scope:
 
-User Registration and Login
+- User Registration and Login
 
-Product Browsing and Navigation
+- Product Browsing and Navigation
 
-Cart and Checkout Flow
+- Cart and Checkout Flow
 
-Address Management
+- Address Management
 
-Contact Module
+- Contact Module
 
-Payment Flow (partial due to blocking defects)
+- Payment Flow (partial due to blocking defects)
