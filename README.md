@@ -12,6 +12,7 @@ End-to-End Functional and UX Testing, to validate the core business workflows of
 **Test Data:** Sample user accounts and test payment data
 
 **Scope**
+
 **In Scope:**
 
 User Registration and Login
