@@ -14,7 +14,7 @@ End-to-End Functional and UX Testing, to validate the core business workflows of
 
 **Scope**
 
-     ** In Scope:**
+     In Scope:
 
 User Registration and Login
 
@@ -28,7 +28,7 @@ Contact Module
 
 Payment Flow (partial due to blocking defects)
 
-     **Out of Scope:**
+     Out of Scope:
 
 Performance Testing
 
