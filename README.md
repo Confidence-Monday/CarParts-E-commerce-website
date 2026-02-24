@@ -27,11 +27,3 @@ Address Management
 Contact Module
 
 Payment Flow (partial due to blocking defects)
-
-     Out of Scope:
-
-Performance Testing
-
-Security Testing
-
-Mobile Responsiveness Testing
